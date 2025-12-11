@@ -42,22 +42,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/EcoEat-JetpackCompose">
-        <img src="EcoEat-banner.png" alt="EcoEat" width="200" height="150" /><br>
-        <strong>EcoEat</strong>
+        <img src="banners/EcoEat-banner.png" alt="EcoEat" width="200" height="150" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/brea-interpreter">
-        <img src="interpreter-banner.png" alt="Intérprete" width="200" height="150" /><br>
-        <strong>Intérprete desde cero</strong>
+        <img src="banners/Interpreter-banner.png" alt="Intérprete" width="200" height="150" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/abap-eclipse">
-        <img src="ABAP-banner.png" alt="SAP ABAP Cloud" width="200" height="150" /><br>
-        <strong>SAP ABAP Cloud</strong>
+        <img src="banners/ABAP-banner.png" alt="SAP ABAP Cloud" width="200" height="150" />
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>EcoEat</strong></td>
+    <td align="center"><strong>Intérprete desde cero</strong></td>
+    <td align="center"><strong>SAP ABAP Cloud</strong></td>
   </tr>
 </table>
 

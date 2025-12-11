@@ -36,7 +36,30 @@
 
 <hr>
 
-<h2>📚 Proyectos destacados</h2>
+<h2>📚 Proyectos destacados en desarrollo</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dambrea01-lgtm/EcoEat-JetpackCompose">
+        <img src="banners/EcoEat-banner.png" alt="EcoEat" width="200" /><br>
+        <strong>EcoEat</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dambrea01-lgtm/brea-interpreter">
+        <img src="banners/Interpreter-banner.png" alt="Intérprete" width="200" /><br>
+        <strong>Intérprete desde cero</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dambrea01-lgtm/abap-eclipse">
+        <img src="banners/ABAP-banner.png" alt="SAP ABAP Cloud" width="200" /><br>
+        <strong>SAP ABAP Cloud</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div>
   <h3>📱 <a href="https://github.com/dambrea01-lgtm/EcoEat-JetpackCompose">Tutorial Android — Jetpack Compose</a></h3>

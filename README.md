@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_URL_AQUI" alt="Miguel Brea - Desarrollador de Aplicaciones Multiplataforma" />
+  <img src="banner.png" alt="Miguel Brea - Desarrollador de Aplicaciones Multiplataforma" />
 </p>
 
 # 👋 ¡Hola! Soy **Miguel Brea**

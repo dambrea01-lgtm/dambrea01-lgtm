@@ -34,13 +34,13 @@ Me apasiona crear proyectos claros, ordenados y bien estructurados, y actualment
 
 ## 📚 **Proyectos destacados**
 
-### [📱 Tutorial Android — Jetpack Compose](../EcoEat-JetpackCompose/README.md)  
+### [📱 Tutorial Android — Jetpack Compose](https://github.com/dambrea01-lgtm/EcoEat-JetpackCompose)  
 Actualmente estoy creando un tutorial paso a paso para ayudar a estudiantes a aprender Compose desde cero, incluyendo contenedores (Box, Row, Column), layouts y arquitectura.
 
-### [🧩 Intérprete desde cero](../brea-interpreter/README.md)  
+### [🧩 Intérprete desde cero]((https://github.com/dambrea01-lgtm/brea-interpreter)  
 Guía educativa donde explico cómo construir un intérprete simple paso a paso para comprender análisis léxico, sintáctico y semántico.
 
-### [🏢 Integración con SAP ABAP Cloud con Eclipse](../abap-eclipse/README.md) 
+### [🏢 Integración con SAP ABAP Cloud con Eclipse](https://github.com/dambrea01-lgtm/abap-eclipse) 
 Tutorial básico de cómo conectar Eclipse con SAP ABAP Cloud y crear las primeras clases, servicios y objetos.
 
 ---

@@ -47,12 +47,12 @@
     </td>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/brea-interpreter">
-        <img src="interpreter-banner.png" alt="Intérprete" width="200" height="150" />
+        <img src="interpreter-banner2.png" alt="Intérprete" width="200" height="150" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/abap-eclipse">
-        <img src="ABAP-banner.png" alt="SAP ABAP Cloud" width="200" height="150" />
+        <img src="ABAP-banner2.png" alt="SAP ABAP Cloud" width="200" height="150" />
       </a>
     </td>
   </tr>

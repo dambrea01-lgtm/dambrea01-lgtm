@@ -20,6 +20,12 @@
   ¡Estoy abierto a nuevas oportunidades! Contáctame para desarrollar aplicaciones, colaborar en proyectos, formar parte de un equipo, o cualquier propuesta interesante. Me entusiasma crecer profesionalmente y crear soluciones juntos.
 </p>
 
+<h2>📄 Mi CV</h2>
+<p>
+  Puedes descargar o consultar mi CV en PDF aquí: 
+  <a href="CV%20-%20con%20link%20a%20notion%20workbook%20-%20link%20a%20github.pdf" target="_blank"><strong>Descargar CV</strong></a>
+</p>
+
 <hr>
 
 <h2>🚀 Sobre mí</h2>
@@ -52,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/dambrea01-lgtm/abap-eclipse">
-        <img src="ABAP-banner2.png" alt="SAP ABAP Cloud" width="200" height="150" />
+        <img src="ABAP-banner3.png" alt="SAP ABAP Cloud" width="200" height="150" />
       </a>
     </td>
   </tr>

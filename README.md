@@ -61,11 +61,17 @@
         <img src="ABAP-banner3.png" alt="SAP ABAP Cloud" width="200" height="150" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/dambrea01-lgtm/python-fun-learning-exercises">
+        <img src="bannerpython.png" alt="Python Fun Learning" width="200" height="150" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center"><strong>EcoEat</strong></td>
     <td align="center"><strong>Intérprete desde cero</strong></td>
     <td align="center"><strong>SAP ABAP Cloud</strong></td>
+    <td align="center"><strong>Python Fun Learning Exercises</strong></td>
   </tr>
 </table>
 
@@ -78,6 +84,9 @@
 
   <h3>🏢 <a href="https://github.com/dambrea01-lgtm/abap-eclipse">Integración con SAP ABAP Cloud con Eclipse</a></h3>
   <p>Tutorial básico de cómo conectar Eclipse con SAP ABAP Cloud y crear las primeras clases, servicios y objetos.</p>
+
+  <h3>🐍 <a href="https://github.com/dambrea01-lgtm/python-fun-learning-exercises">Python Fun Learning Exercises</a></h3>
+  <p>Proyecto educativo para aprender Python escribiendo código, no copiándolo. Recorrido divertido y guiado por comentarios desde nivel principiante hasta avanzado.</p>
 </div>
 
 <hr>

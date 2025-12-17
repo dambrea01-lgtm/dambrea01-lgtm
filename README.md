@@ -71,7 +71,7 @@
     <td align="center"><strong>EcoEat</strong></td>
     <td align="center"><strong>Intérprete desde cero</strong></td>
     <td align="center"><strong>SAP ABAP Cloud</strong></td>
-    <td align="center"><strong>Python Fun Learning Exercises</strong></td>
+    <td align="center"><strong>Python Fun Learning</strong></td>
   </tr>
 </table>
 
